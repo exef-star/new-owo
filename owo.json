@@ -1238,7 +1238,7 @@
   },
   "猫猫虫": {
     "type": "image",
-    "items": [
+    "container": [
       {
         "text": "catbug-不准色色",
         "icon": "https://cdn.smartcis.cn/gh/willow-god/owo/catbug/catbug-不准色色.webp"
@@ -1371,7 +1371,7 @@
   },
   "胆小鬼": {
     "type": "image",
-    "items": [
+    "container": [
       {
         "text": "death-搬砖",
         "icon": "https://cdn.smartcis.cn/gh/willow-god/owo/death/death-搬砖.png"
